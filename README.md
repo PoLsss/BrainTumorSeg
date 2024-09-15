@@ -40,4 +40,4 @@ If our work is useful for you, please cite as:
 }
 ```
 
-For any questions, please contact our corresponding author: [Mr. Thien Qua T.Nguyen](20521783@gm.uit.edu.vn)
+For any questions, please contact our corresponding author: Mr. Thien Qua T.Nguyen at 20521783@gm.uit.edu.vn 
