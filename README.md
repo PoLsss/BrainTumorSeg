@@ -9,6 +9,8 @@ We used the BraTS2019 dataset ([kaggle](https://www.kaggle.com/datasets/debobrat
 
 ## Model
 <img src="https://github.com/user-attachments/assets/eadab797-2017-4099-93f3-685ff3244961" width="500" alt="Description ò model">
+
+
 We use a 3D U-Net model backbone combined with a Contextual Transformer (CoT) and Double Attention (DA)
 
 ## Training process:
