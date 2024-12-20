@@ -1,10 +1,44 @@
+## Overview
+
 This repository is used to store the codes of our paper [Enhancing brain tumor segmentation in MRI images: A hybrid approach using UNet, Attention Mechanisms, and Transformers](https://doi.org/10.1016/j.eij.2024.100528)
+
+Published in *Egyptian Informatics Journal*, 2024.
+
+### Authors
+- Thien B. Nguyen-Tat
+- Thien-Qua T. Nguyen
+- Hieu-Nghia Nguyen
+- Vuong M. Ngo
+
+
+### Key Contributions
+
+Currently, the demand for automated solutions in healthcare is increasing. Among them, brain tumors are a common disease that threatens patients' lives, cognition, and intellect. Accurately identifying the location, size, and components of the tumor is extremely important in treatment, as even slight inaccuracies during surgery can lead to vastly different outcomes.
+
+- There is a question to consider: Brain tumors are complex structures. How can we accurately identify the tumor's structure to optimize incision paths and minimize invasiveness during surgery?
+
+In addressing this question, the study makes 3 key contributions:
+1. Propose a preprocessing method.
+2. Introduce a new model.
+3. Visualize the images in 3D.
+
+
+
+
+
 
 
 ## Dataset
 BraTS has always been focusing on the evaluation of state-of-the-art methods for the segmentation of brain tumors in multimodal magnetic resonance imaging (MRI) scans.
 
 We used the BraTS2019 dataset ([kaggle](https://www.kaggle.com/datasets/debobratachakraborty/brats2019-dataset), [CBICA](https://www.med.upenn.edu/cbica/brats2019/data.html)) and BraTS2020 dataset ([kaggle](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data?resource=download), [CBICA](https://www.med.upenn.edu/cbica/brats2020/data.html))to conduct the study.
+
+
+
+
+
+
+
 
 
 ## Model
